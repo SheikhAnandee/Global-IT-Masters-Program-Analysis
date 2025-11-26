@@ -18,7 +18,7 @@
    '''bash
     python Capstone_Project_1/scrapper1.py--chromedriver_path
    '''
-6) You will get a file named "CS_master_program_details_Top30_Countries.csv" containing all the required details.
+6) You will get a file named "CS_master_program_details_Top30_Countries%20-%20CS_master_program_details_Top30_Countries.csv.csv" containing all the required details.
    Alternatively,
    Check our scrape data here https://github.com/SheikhAnandee/-Global-Analysis-of-On-Campus-Computer-Science-IT-Master-s-Programs/blob/main/Capstone_Project_1/CS_master_program_details_Top30_Countries%20-%20CS_master_program_details_Top30_Countries.csv.csv
 
