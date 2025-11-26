@@ -11,7 +11,7 @@ You can visit the public Dashboard [here:](https://public.tableau.com/app/profil
  '''bash
  git clone:https://github.com/SheikhAnandee/-Global-Analysis-of-On-Campus-Computer-Science-IT-Master-s-Programs.git
  '''
-2)Initialize and activate virtual environment
+2) Initialize and activate virtual environment
   '''bash
        virtualenv --no-site-packages venv
        source venv/bin/activate
