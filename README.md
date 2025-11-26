@@ -1,6 +1,6 @@
 # Global Analysis of On-Campus Computer Science & IT Master's Programs
-# Build from sources 
-1) Clo ne the repo
+# Build from sources and run the selenium scrapper
+1) Clone the repo
  '''bash
  git clone:https://github.com/SheikhAnandee/-Global-Analysis-of-On-Campus-Computer-Science-IT-Master-s-Programs.git
  '''
