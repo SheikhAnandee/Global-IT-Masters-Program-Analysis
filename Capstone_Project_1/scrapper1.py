@@ -59,7 +59,7 @@ def main():
 
     for page_id in range(1, 214):
 
-        url = f"https://www.mastersportal.com/search/master/msc/computer-science-it?mh=face2face&ci=202,30,56,11,3,82,4,26,105,6,13,123,5,19,9,10,212,1,113,22,117,38,140,28,27,14,21,133,20,25&page={page_id}"
+        url = f"https://www.mastersportal.com/search/master/msc/computer-science-it?mh=face2face&rg=12,11,10,9,1&page={page_id}"
 
         driver.get(url)
         time.sleep(4)  # allow Cloudflare bypass

@@ -4,7 +4,7 @@ the goal of this project is to gather information of Computer Science and IT mas
 
 Later we used the scraped data to understand the demographics and correlations using Tableau Dashboard.
 
-You can visit the public Dashboard [here:](https://public.tableau.com/app/profile/sheikh.anandee.hasan/viz/Book3_17640035376900/TuitionComparisonDashboard)
+You can visit the public Dashboard 1 [here:](https://public.tableau.com/app/profile/sheikh.anandee.hasan/viz/GlobalAnalysisofOn-CampusComputerScienceITMastersPrograms/TuitionComparisonDashboard) and Dashboard 2 [here:](https://public.tableau.com/app/profile/sheikh.anandee.hasan/viz/GlobalAnalysisofOn-CampusComputerScienceITMastersPrograms_17642456408750/Dashboard2?publish=yes)
 
 # Build from sources and run the selenium scrapper
 1) Clone the repo
@@ -30,4 +30,7 @@ You can visit the public Dashboard [here:](https://public.tableau.com/app/profil
    Check our scrape data here https://github.com/SheikhAnandee/-Global-Analysis-of-On-Campus-Computer-Science-IT-Master-s-Programs/blob/main/Capstone_Project_1/CS_master_program_details_Top30_Countries%20-%20CS_master_program_details_Top30_Countries.csv.csv
 
 ## Analytics   
-[Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/sheikh.anandee.hasan/viz/Book3_17640035376900/TuitionComparisonDashboard)
+View the dashboards:
+
+[Dashboard 1](https://public.tableau.com/app/profile/sheikh.anandee.hasan/viz/GlobalAnalysisofOn-CampusComputerScienceITMastersPrograms/TuitionComparisonDashboard)
+[Dashboard 2](https://public.tableau.com/app/profile/sheikh.anandee.hasan/viz/GlobalAnalysisofOn-CampusComputerScienceITMastersPrograms_17642456408750/Dashboard2?publish=yes)
