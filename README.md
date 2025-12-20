@@ -1,10 +1,16 @@
 # Global Analysis of On-Campus Computer Science & IT Master's Programs
-# Problem statement
-This project automates the collection of Computer Science & IT Master’s program information from 35+ countries using Selenium and Undetected-Chromedriver.
-It gathers key details including program name, university, tuition fee, duration, city, country, average rating, review count, and global ranking percentage. 
-The final output is a clean, analysis-ready dataset sourced from the [MastersPortal](https://www.mastersportal.com/) website.<br/>
+# Objective
+To build a centralized dataset and interactive dashboard comparing global CS & IT master’s programs.
+# Project Background
+Comparing Computer Science and IT master’s programs across countries is challenging due to fragmented and inconsistent information spread across multiple university websites. This project addresses that problem by automating the collection of standardized program data from 35+ countries.
+Using Selenium with Undetected-Chromedriver, the project scrapes on-campus CS & IT master’s program information from the [MastersPortal](https://www.mastersportal.com/) website.The resulting dataset is structured, consistent, and ready for analysis, enabling efficient cross-country comparisons of tuition, rankings, duration, and availability.
+# Data Scraping & Preprocessing
+Program data is automatically scraped from paginated search results on [MastersPortal](https://www.mastersportal.com/)  using Selenium and Undetected-Chromedriver to bypass anti-bot protections. Key attributes collected include program name, university, city, country, tuition fee, duration, average rating, review count, global ranking percentage, and program links.
 
-Later I used the scraped data to explore patterns and insights using an interactive Tableau dashboard. <br/>
+To ensure data quality, missing elements are safely handled, location strings are parsed into separate city and country fields, and review counts are cleaned by removing extra characters. The final output is stored as a clean, analysis-ready CSV file using Pandas.
+
+# Data Analysis & Visualization
+The scraped dataset is analyzed and visualized using an interactive Tableau dashboard to uncover patterns and insights across global study destinations. The dashboard includes: <br/>
 1) Tuition Fee Heatmap across countries and rating categories (excluding Singapore)
 2) Bar Chart of Average Tuition Fee by Country
 3) Tuition Fee vs Program Rating (Scatter Plot)
