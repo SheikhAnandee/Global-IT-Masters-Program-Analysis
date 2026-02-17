@@ -1,4 +1,4 @@
-# Global Analysis of On-Campus Computer Science & IT Master's Programs
+# Global Analysis of IT Master's Programs
 # Objective
 To build a centralized dataset and interactive dashboard comparing global CS & IT master’s programs.
 # Project Background
@@ -13,12 +13,13 @@ To ensure data quality, missing elements are safely handled, location strings ar
 The scraped dataset is analyzed and visualized using an interactive Tableau dashboard to uncover patterns and insights across global study destinations. The dashboard includes: <br/>
 1) Tuition Fee Heatmap across countries and rating categories (excluding Singapore)
 2) Bar Chart of Average Tuition Fee by Country
-3) Tuition Fee vs Program Rating (Scatter Plot)
+3) Scatter Plot of Average Tuition Fee vs. Average Rating, analyzing whether higher tuition fees are associated with better program ratings worldwide
 4) Scatter Plot: Average Monthly Tuition vs. Program Duration (USA Only) – exploring tuition patterns in the USA
 5) List of Top-Ranked Universities Offering Data Science Master’s Programs Worldwide
-6) Map of European Countries Showing Universities Offering AI, Cybersecurity, and Data Analytics Programs – including number of programs, universities, maximum reviews, average ranking %, and tuition fee
-7) Bar Chart of Number of Top-Ranked Universities in Affordable Countries – showing review count, average rating, and average ranking
-8) Dual-Axis Line Chart: Relationship Between Program Ranking, Average Rating, and Review Count
+6) Map of European Countries Showing Universities Offering AI, Cybersecurity, and Data Analytics Programs,including number of programs, universities, maximum reviews, average ranking %, and tuition fee
+7) Bar Chart of Number of Top-Ranked Universities in affordable countries, showing review count, average rating, and average ranking
+8) Bubble Chart comparing average tuition fees and ratings across countries, with bubble size reflecting top-ranked universities and review volume.
+9) Dual-Axis Line Chart: Relationship Between Program Ranking, Average Rating, and Review Count
 
 You can visit the public [Dashboard](https://public.tableau.com/views/GlobalAnalysisofOn-CampusComputerScienceITMastersPrograms_17642456408750/Dashboard4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 # Some interesting findings from both dashboards
