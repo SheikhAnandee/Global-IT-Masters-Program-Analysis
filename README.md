@@ -21,7 +21,7 @@ The scraped dataset is analyzed and visualized using an interactive Tableau dash
 8) Bubble Chart comparing average tuition fees and ratings across countries, with bubble size reflecting top-ranked universities and review volume.
 9) Dual-Axis Line Chart: Relationship Between Program Ranking, Average Rating, and Review Count
 
-You can visit the public [Dashboard](https://public.tableau.com/views/GlobalAnalysisofOn-CampusComputerScienceITMastersPrograms_17642456408750/Dashboard4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+You can visit the public [Dashboard](https://public.tableau.com/views/GlobalITMastersProgramsAnanlysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 # Some interesting findings from both dashboards
 1) Universities with Excellent ratings (≥4.5) are slightly cheaper than those with Very Good ratings (≥4).
 2) Program ratings remain consistently strong across all tuition ranges, indicating that higher cost does not necessarily guarantee better quality.
@@ -76,7 +76,7 @@ For Linux / macOS:
 # Analytics   
 View the dashboards:
 
-[Dashboard](https://public.tableau.com/views/GlobalAnalysisofOn-CampusComputerScienceITMastersPrograms_17642456408750/Dashboard4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Dashboard](https://public.tableau.com/views/GlobalITMastersProgramsAnanlysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # Feedback & Contact
 If you have suggestions, questions, or ideas to improve the dataset or dashboard, feel free to reach out. Feedback and discussions are always welcome.
