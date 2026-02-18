@@ -38,7 +38,7 @@ You can visit the public [Dashboard](https://public.tableau.com/views/GlobalITMa
 1) Clone the repository
  ```bash
 
-   git clone:https://github.com/SheikhAnandee/-Global-Analysis-of-On-Campus-Computer-Science-IT-Master-s-Programs.git
+   git clone:https://github.com/SheikhAnandee/Global-IT-Masters-Program-Analysis.git
 
   ```
 2) Initialize and activate virtual environment <br/> 
