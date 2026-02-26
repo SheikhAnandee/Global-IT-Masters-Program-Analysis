@@ -1,6 +1,13 @@
 # Global Analysis of IT Master's Programs
+# Quick Links
+- **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/GlobalITMastersProgramsAnanlysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Dataset (CSV):** [View Dataset](data/CS_master_program_details_top35_countries.csv)
+- **Scraper Code:** [View Scraper](src/scraper.py)
+- **Data Source:** [Mastersportal website](https://www.mastersportal.com/)
+- **Full Repository:** [GitHub Repo](https://github.com/SheikhAnandee/Global-IT-Masters-Program-Analysis.git)
+- **Contact:** anandeehasan24@gmail.com
 # Objective
-To build a centralized dataset and interactive dashboard comparing global CS & IT master’s programs.
+Build a centralized dataset and interactive dashboard to compare global Computer Science & IT Master’s programs across 35+ countries.
 # Project Background
 Comparing Computer Science and IT master’s programs across countries is challenging due to fragmented and inconsistent information spread across multiple university websites. This project addresses that problem by automating the collection of standardized program data from 35+ countries.
 Using Selenium with Undetected-Chromedriver, the project scrapes on-campus CS & IT master’s program information from the [MastersPortal](https://www.mastersportal.com/) website.The resulting dataset is structured, consistent, and ready for analysis, enabling efficient cross-country comparisons of tuition, rankings, duration, and availability.
@@ -10,6 +17,8 @@ Program data is automatically scraped from paginated search results on [MastersP
 To ensure data quality, missing elements are safely handled, location strings are parsed into separate city and country fields, and review counts are cleaned by removing extra characters. The final output is stored as a clean, analysis-ready CSV file using Pandas.
 
 # Data Analysis & Visualization
+# Dashboard 1: Tuition Analysis
+
 The scraped dataset is analyzed and visualized using an interactive Tableau dashboard to uncover patterns and insights across global study destinations. The dashboard includes: <br/>
 1) Tuition Fee Heatmap across countries and rating categories (excluding Singapore)
 2) Bar Chart of Average Tuition Fee by Country
