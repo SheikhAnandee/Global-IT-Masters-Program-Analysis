@@ -70,17 +70,19 @@ The final output is stored as a clean, analysis-ready [CSV file](data/CS_master_
 5. **Dual-Axis Line Chart: Relationship Between Program Ranking, Average Rating, and Review Count**
 
 You can visit the public [Dashboard](https://public.tableau.com/views/GlobalITMastersProgramsAnanlysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-## Interesting findings from both dashboards
-1) Universities with Excellent ratings (≥4.5) are slightly cheaper than those with Very Good ratings (≥4).
-2) Program ratings remain consistently strong across all tuition ranges, indicating that higher cost does not necessarily guarantee better quality.
-3) Most programs in the USA are 12 months long.
-4) Some 24-month programs are cheaper than certain 8-, 10-, or 12-month programs, which is unusual.
-5) USA has the highest average tuition fee, while Italy has the lowest average tuition fee
-6) Programs with similar ratings (≈4.0–4.5) appear across a wide tuition range
-7) Europe offers the best balance of affordability, high-quality education, and strong global rankings.
-8) Program duration varies widely: Europe leans toward 2-year programs, while the USA and UK generally offer 1-year programs.
-9) The UK stands out as one of Europe’s largest contributors, offering hundreds of programs in Cybersecurity, AI, and Data Analytics across a wide range of universities.
-10) Average program ratings remain consistently high across rankings, indicating stable quality, while review counts vary significantly, suggesting that higher rankings are more closely linked to quality than to popularity.
+
+## Interesting Findings from Both Dashboards
+
+- **Excellent-rated programs (≥4.5)** are slightly cheaper than those with “Very Good” ratings (≥4.0).  
+- **Program ratings** remain consistently strong across all tuition ranges, showing that higher cost does not guarantee better quality.  
+- Most programs in the **USA** have a **12-month duration**.  
+- Some **24-month programs** are cheaper than certain 8–12 month programs, which is unusual.  
+- The **USA** has the highest average tuition fee, while **Italy** has the lowest.  
+- Programs with similar ratings (≈4.0–4.5) span a **wide tuition range**.  
+- **Europe** offers the best balance of **affordability, quality, and global rankings**.  
+- Program duration varies widely: Europe favors **2-year programs**, while the USA and UK mostly offer **1-year programs**.  
+- The **UK** is one of Europe’s largest contributors, offering hundreds of programs in **Cybersecurity, AI, and Data Analytics**.  
+- **Average program ratings** are consistently high across rankings, while **review counts** vary, indicating that **ranking correlates more with quality than popularity**.
     
 ## Build from sources and run the selenium scrapper
 1) Clone the repository
