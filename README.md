@@ -121,10 +121,25 @@ For Linux / macOS:
    Alternatively:
    Check our scraped data here: https://github.com/SheikhAnandee/Global-IT-Masters-Program-Analysis/tree/main/data/CS_master_program_details_top35_countries.csv
    
-## Analytics   
-View the dashboards:
+##  Analytics & Interactive Dashboard
 
-[Dashboard](https://public.tableau.com/views/GlobalITMastersProgramsAnanlysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Explore the full interactive Tableau dashboard to analyze tuition trends, rankings, program distribution, and cross-country comparisons in detail.
+
+ **Live Dashboard:**  
+ [View on Tableau Public](https://public.tableau.com/views/GlobalITMastersProgramsAnanlysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+## License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project with proper attribution.
+
+## Acknowledgments
+
+- **MastersPortal** – For providing structured access to global master’s program information.
+- **Tableau Public** – For enabling interactive data visualization and dashboard publishing.
+- **Selenium & Undetected-Chromedriver Community** – For automation tools used in large-scale data scraping.
+- **Open Source Community** – For the Python libraries and ecosystem that made this project possible.
 
 ## Feedback & Contact
 If you have suggestions, questions, or ideas to improve the dataset or dashboard, feel free to reach out. Feedback and discussions are always welcome.
