@@ -37,21 +37,37 @@ The final output is stored as a clean, analysis-ready [CSV file](data/CS_master_
 
 ## Data Analysis & Visualization
 ### Dashboard 1: Tuition Analysis
-<p align="center"> <img src="visualizations/tuition-dashboard.png-1" width="900"> </p>
-Visualizations: <br/>
-1) Tuition Fee Heatmap across countries and rating categories (excluding Singapore)
-2) Bar Chart of Average Tuition Fee by Country
-3) Scatter Plot of Average Tuition Fee vs. Average Rating, analyzing whether higher tuition fees are associated with better program ratings worldwide
-4) Scatter Plot: Average Monthly Tuition vs. Program Duration (USA)
+<p align="center"> <img src="visualizations/tuition-dashboard-1.png" width="900"> </p>
+
+### Visualizations: 
+1. **Tuition Fee Heatmap**
+   - Compares tuition fees across countries and rating categories (excluding Singapore).
+
+2. **Bar Chart: Average Tuition Fee by Country**
+   - Highlights countries with the highest and lowest average tuition costs.
+
+3. **Scatter Plot: Average Tuition Fee vs. Average Rating**
+   - Analyzes whether higher tuition fees are associated with better program ratings worldwide.
+   
+4. **Scatter Plot: Average Monthly Tuition vs. Program Duration**
+   - Examines cost efficiency patterns across different program lengths.
+   - The country can be dynamically selected using the dashboard filter.
 
 ### Dashboard 2: Ranking & Geographic Distribution
 <p align="center"> <img src="visualizations/ranking-dashboard-2.png" width="900"> </p>
-Visualizations: <br/>
-1) List of Top-Ranked Universities Offering Data Science Master’s Programs Worldwide
-2) Map of European Countries Showing Universities Offering AI, Cybersecurity, and Data Analytics Programs.
-3) Bar Chart of Number of Top-Ranked Universities in affordable countries.
-4) Bubble Chart comparing average tuition fees and ratings across countries, with bubble size reflecting top-ranked universities and review volume.
-5) Dual-Axis Line Chart: Relationship Between Program Ranking, Average Rating, and Review Count
+
+### Visualizations: 
+
+1. **List of Top-Ranked Universities Offering Data Science Master’s Programs Worldwide**
+
+2. **Map of European Countries Showing Universities Offering AI, Cybersecurity, and Data Analytics Programs**
+
+3. **Bar Chart: Number of Top-Ranked Universities in Affordable Countries**
+
+4. **Bubble Chart: Average Tuition vs Rating Comparison**
+   - Bubble size reflects number of top-ranked universities and review volume
+
+5. **Dual-Axis Line Chart: Relationship Between Program Ranking, Average Rating, and Review Count**
 
 You can visit the public [Dashboard](https://public.tableau.com/views/GlobalITMastersProgramsAnanlysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 ## Interesting findings from both dashboards
